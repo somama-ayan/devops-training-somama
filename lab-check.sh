@@ -1,4 +1,4 @@
-ux@fedora:~/devops-lab$ cat lab-check.sh 
+ 
 #!/usr/bin/env bash
 
 
